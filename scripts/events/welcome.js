@@ -305,7 +305,7 @@ async function createBotWelcomeCanvas(api, threadID) {
     ctx.font = "bold 60px Arial";
     ctx.textAlign = "center";
     ctx.fillStyle = "#FFF";
-    ctx.fillText("HEDGEHOG GPT", W / 2, 350);
+    ctx.fillText("MINATO NAMIKAZE", W / 2, 350);
 
     ctx.font = "bold 35px Arial";
     ctx.fillStyle = "#FFD700";
